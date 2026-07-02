@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaniv Terner</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yaniv-terner">
+  <a href="https://www.linkedin.com/in/yaniv-terner-48557a29a/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Profile"/>
   </a>
 </p>
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I am an Electrical Engineering graduate from Bar-I
 
 ## 🤝 Let's Connect
 
-I'm always open to discussing technology, chip design, and hardware architecture. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yaniv-terner).
+I'm always open to discussing technology, chip design, and hardware architecture. Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yaniv-terner-48557a29a/).
 
 ---
 *Seeking professional opportunities in Physical Design and VLSI engineering.*
